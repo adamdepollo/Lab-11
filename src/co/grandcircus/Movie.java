@@ -8,6 +8,7 @@ public class Movie {
 		setTitle(title);
 		setCategory(category);
 	}
+	
 	public Movie() {
 		
 	}
